@@ -1,0 +1,99 @@
+Verilen problemlere ait algoritmaları metinsel ifadesini ve sözde kodunu yazınız.
+
+
+YAPINIZ-1:
+
+Ayşe algoritma ve programlama dersinin vizesinden 60,finalinden 70 almıştır. Ayşe’nin geçme notunu hesaplayan programın metinsel algoritmasını ve sözde kodunu yazınız.
+
+ÇÖZÜM:
+
+Metinsel Algoritma
+1.	Başla
+2.	Vize notunu al %40’ını hesapla
+3.	Final notunu al %60’ını hesapla
+4.	Hesaplanan notları topla
+5.	Hesaplanan notları ekrana yaz
+6.	Bitir 
+
+Sözde Kod
+1.	Başla
+2.	Vize notu
+3.	Final notu
+4.	Hesapla = vize 0,4 + final 0,6
+5.	Hesaplamanın değerini yaz
+6.	Bitir 
+
+
+YAPINIZ-2:
+
+Ayşe algoritma ve programlama dersinin vizesinden 60,finalinden 70 almıştır. Ayşe’nin ilgili dersten geçip geçmediğini ekrana yazdıran programın mentinsel ve sözde kodunuz yazınız.
+
+ÇÖZÜM:
+
+Metinsel Algoritma
+1.	Başla
+2.	Vize notunu al %40’ını hesapla
+3.	Final notunu al %60’ını hesapla
+4.	Hesaplanan notları topla
+5.	Eğer hesaplanan not 40’tan büyük veya eşitse "GEÇTİ" yazdır. Aksi ise "KALDI" yazdır.
+6.	Sonuçları ekrana yazdır.
+7.	Bitir
+
+Sözde Kod
+1.	Başla
+2.	Vize notu
+3.	Final notu
+4.	Hesapla= vize 0,4 + final 0,6
+5.	Hesaplamanın değerini yaz
+6.	Hesaplama değeri ≥ 40 ise " GEÇTİ" yazdır
+7.	Hesaplama değeri ≤ 40 ise "KALDI"yazdır
+8.	Bitir
+
+
+
+
+YAPINIZ-3:
+
+Selim algoritma ve programlama dersinin vizesinden 60,finalinden 40 almıştır. Selim’in ilgili dersten geçip geçmediğini ekrana yazdıran programın metinsel algoritmasını ve sözde kodunu yazınız.
+
+ÇÖZÜM: 
+
+Metinsel Algoritma 
+1.	Vize notunu al
+2.	Vize notunun %40’ını hesapla
+3.	Final notunu al
+4.	Final notunun %60’ını hesapla
+5.	Hesaplanan notları topla
+6.	Toplam not 40’tan büyük veya eşitse "GEÇTİ" yazdır. Aksi ise "KALDI" yazdır.
+7.	Sonuçları ekrana yazdır
+8.	Bitir 
+
+Sözde kod
+1.	Başla 
+2.	Vize notu
+3.	Final notu
+4.	Hesapla vize 0,4 + final 0,6
+5.	Hesaplamanın değerini yaz
+6.	Hesaplama değeri ≥ 40 ise "GEÇTİ" yazdır
+7.	Hesaplama değeri ≤ 40 ise "KALDI" yazdır
+8.	Bitir 
+ 
+YAPINIZ-4
+
+0 ile 100 arasındaki çift sayıları ekrana yazdıran programın metinsel algoritmasını ve sözde kodunu yazınız
+
+ÇÖZÜM:
+
+Metinsel Algoritma
+1.	Başla
+2.	0’dan başlayarak 100’e kadar olan sayıları kontrol et
+3.	Eğer sayı 2’ye bölünüyorsa sayıyı ekrana yazdır
+4.	Sonraki sayıya geç 
+5.	100’e ulaştığında programı sonlandır
+6.	Bitir 
+
+Sözde Kod
+1.	Başla 
+2.	0-100 arasındaki sayıları belirle
+3.	Sayı÷2 = Z ise ekrana yazdır
+4.	Bitir 
